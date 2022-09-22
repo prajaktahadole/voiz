@@ -1,4 +1,4 @@
-import './App.css'
+import './index.css'
 import Myselect from './Select'
 import React from 'react';
 
